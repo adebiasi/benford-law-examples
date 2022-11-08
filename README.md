@@ -10,10 +10,18 @@ The data of the 2016 US presidential election in Illinois are freely available [
 
 ### Results
 
+Clinton:
+
 ![alt text](https://github.com/adebiasi/benford-law-examples/blob/main/generated_graphs/Percentage_First_Digits_Clinton.png)
+
+Johnson:
 
 ![alt text](https://github.com/adebiasi/benford-law-examples/blob/main/generated_graphs/Percentage_First_Digits_Johnson.png)
 
+Stein:
+
 ![alt text](https://github.com/adebiasi/benford-law-examples/blob/main/generated_graphs/Percentage_First_Digits_Stein.png)
+
+Trump:
 
 ![alt text](https://github.com/adebiasi/benford-law-examples/blob/main/generated_graphs/Percentage_First_Digits_Trump.png)
